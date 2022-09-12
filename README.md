@@ -6,11 +6,12 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+___
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Menambahkan plugin Google Maps Flutter sebagai dependensi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (2538)](https://user-images.githubusercontent.com/75615789/189568600-dd845f1e-df38-42dc-b490-8df2a6da6ce0.png)
+
+## Menambahkan kunci API untuk aplikasi Android
+
+![Screenshot (2539)](https://user-images.githubusercontent.com/75615789/189570595-34b1cdb3-1019-43e7-abae-d58b14aa792c.png)
