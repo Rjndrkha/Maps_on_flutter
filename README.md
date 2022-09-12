@@ -13,5 +13,8 @@ ___
 ![Screenshot (2538)](https://user-images.githubusercontent.com/75615789/189568600-dd845f1e-df38-42dc-b490-8df2a6da6ce0.png)
 
 ## Menambahkan kunci API untuk aplikasi Android
-
+Disini saya menggunakan Api dari Google https://console.cloud.google.com/google/maps-apis/start
 ![Screenshot (2539)](https://user-images.githubusercontent.com/75615789/189570595-34b1cdb3-1019-43e7-abae-d58b14aa792c.png)
+
+## Test Running Apps
+![Screenshot (2540)](https://user-images.githubusercontent.com/75615789/189573271-71b1db8c-994b-41a6-adf8-ae9a5c59d2ca.png)
